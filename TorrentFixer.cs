@@ -1,13 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+// Loads the SoulsFormat library
 using SoulsFormats;
-using System.IO;
-using System.Runtime.Serialization.Formatters.Binary;
-using System.Numerics;
-using Assimp.Unmanaged;
 
 // Get the file path from the command line arguments
 string bndFile = args[0];
